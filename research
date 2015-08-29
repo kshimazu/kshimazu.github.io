@@ -1,0 +1,220 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+        <meta http-equiv="X-UA-Compatible" content="IE=9,chrome=1"/>
+    <meta charset="utf-8"/>
+<title>Kelli Shimazu | RESEARCH</title>
+<meta name="fb_admins_meta_tag" content=""/>
+<meta name="keywords" content="Kelli, Shimazu"/>
+<meta name="description" content="Personal website displaying past and present engineering projects."/>
+<link rel="shortcut icon" href="http://www.wix.com/favicon.ico" type="image/x-icon"/>
+<link rel="apple-touch-icon" href="http://www.wix.com/favicon.ico" type="image/x-icon"/>
+<link rel="canonical" href="http://kellishimazu.wix.com/kelli-shimazu#!research/c6zp"/>
+    <meta http-equiv="X-Wix-Renderer-Server" content="app28.tam"/>
+<meta http-equiv="X-Wix-Meta-Site-Id" content="1f45f7cd-5be7-4b87-b9bf-d072cf9c78ba"/>
+<meta http-equiv="X-Wix-Application-Instance-Id" content="f97a2dbb-eac4-4926-a4bd-cffc0cb47775"/>
+<meta http-equiv="X-Wix-Published-Version" content="30"/>
+
+<meta http-equiv="etag" content="612744c6709954f656c9d39645dd07bb"/>
+<meta property="og:title" content="Kelli Shimazu | RESEARCH"/>
+<meta property="og:type" content="article"/>
+<meta property="og:url" content="http://kellishimazu.wix.com/kelli-shimazu#!research/c6zp"/>
+<meta property="og:site_name" content="Kelli Shimazu"/>
+<meta property="og:description" content="Personal website displaying past and present engineering projects."/>
+<meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE"/>
+
+<meta id="wixMobileViewport" name="viewport" content="minimum-scale=0.25, maximum-scale=1.2"/>
+
+
+        
+    </head>
+<body>
+    
+        <div class="WixHeader">
+        <a href="http://www.wix.com/lpviral/stun-vrl-lil-seo?utm_campaign=vir_wixad_live&experiment_id=abtestbanner122400001" rel="nofollow"><span class="smallMusa">(Wix-Logo) </span>Create a <span class="smallLogo">Wix</span> site!</a> <br/>
+        <a href="http://www.wix.com/lpviral/stun-vrl-lil-seo?utm_campaign=vir_wixad_live&experiment_id=abtestbanner122400001" rel="nofollow">100s of templates<br />No coding needed<br /><span class="emphasis spacer">Start now >></span></a>
+    </div> 
+    
+            <header class="container" id="SITE_HEADER" >
+            <div id="WRchTxt9" class="Text">
+    <h1 class="font_0">Kelli Shimazu</h1>
+
+<h6 style="line-height: 1.2em;" class="font_6">Mechanical Engineer</h6>
+
+</div>
+
+
+            <nav>
+    <ul id="DrpDwnMn0" class="menu">
+                <li class="menuItem">
+    <a id="pl22fv" href="http://kellishimazu.wix.com/kelli-shimazu" target="_self" title="HOME">HOME</a>
+    </li>
+
+                <li class="menuItem">
+    <a id="pl19wf" href="http://kellishimazu.wix.com/kelli-shimazu#!resume/c46c" target="_self" title="RESUME">RESUME</a>
+    </li>
+
+                <li class="menuItem">
+    <a id="plzt3" href="http://kellishimazu.wix.com/kelli-shimazu#!projects/cm8a" target="_self" title="PROJECTS">PROJECTS</a>
+    </li>
+
+                <li class="menuItem">
+    <a id="hm0" href="http://kellishimazu.wix.com/kelli-shimazu#!research/c6zp" target="_self" title="RESEARCH">RESEARCH</a>
+    </li>
+
+            </ul>
+</nav>
+
+    </header>
+<section class="page" id="c6zp">
+                <div id="icnpifqc" class="Text">
+    <h2 class="font_2">RESEARCH </h2>
+
+</div>
+
+
+            <span id="icnpifqg_6">
+    <!-- placeholder for component of data type=None -->
+</span>
+            <ul id="icnpifqc_0" class="Gallery" type="wysiwyg.viewer.components.SliderGallery">
+    <li id="image_m79" itemscope itemtype="http://schema.org/ImageObject">
+            <a href="http://kellishimazu.wix.com/kelli-shimazu#!perching-landing-gear.jpg/zoom/c6zp/image_m79">
+                    <img src="http://static.wixstatic.com/media/f34a59_fa351a3a58c543b3990deab25e49f209.jpg_srz_530_353_85_22_0.50_1.20_0.00_jpg_srz" alt="perching landing gear.JPG" itemprop="contentURL" width="530" height="353"/>
+    </a>                <span itemprop="description">Prototype of gravity actuated four bar linkage perching landing gear.</span>
+    </li>
+
+    <li id="image_1yah" itemscope itemtype="http://schema.org/ImageObject">
+            <a href="http://kellishimazu.wix.com/kelli-shimazu#!claw.jpg/zoom/c6zp/image_1yah">
+                    <img src="http://static.wixstatic.com/media/f34a59_e82b3912b7b343ab947f3288d3ca29b2.jpg_srz_530_218_85_22_0.50_1.20_0.00_jpg_srz" alt="claw.JPG" itemprop="contentURL" width="530" height="218"/>
+    </a>                <span itemprop="description">Soldiworks render of claw digits . White part is made from ABS and the red part is NinjaFlex fliament material from Makerbot.</span>
+    </li>
+
+    <li id="image_1hve" itemscope itemtype="http://schema.org/ImageObject">
+            <a href="http://kellishimazu.wix.com/kelli-shimazu#!mini.jpg/zoom/c6zp/image_1hve">
+                    <img src="http://static.wixstatic.com/media/f34a59_690e8493c0ad4d48ac7e320e58fd09aa.jpg_srz_530_144_85_22_0.50_1.20_0.00_jpg_srz" alt="mini.JPG" itemprop="contentURL" width="530" height="144"/>
+    </a>                <span itemprop="description">Render of miniaturized version of four bar linkage landing gear. This would be used for the very small drones.</span>
+    </li>
+
+    <li id="image_1xfn" itemscope itemtype="http://schema.org/ImageObject">
+            <a href="http://kellishimazu.wix.com/kelli-shimazu#!hook.jpg/zoom/c6zp/image_1xfn">
+                    <img src="http://static.wixstatic.com/media/f34a59_23b19011b6504b8cafc15f274f1f6174.jpg_srz_530_344_85_22_0.50_1.20_0.00_jpg_srz" alt="hook.jpg" itemprop="contentURL" width="530" height="344"/>
+    </a>                <span itemprop="description">Render of haning landing gear in three different views.</span>
+    </li>
+
+    <li id="image_24eb" itemscope itemtype="http://schema.org/ImageObject">
+            <a href="http://kellishimazu.wix.com/kelli-shimazu#!hook1.jpg/zoom/c6zp/image_24eb">
+                    <img src="http://static.wixstatic.com/media/f34a59_eaa73f8b55dc41e3a0cc3c59fafd789c.jpg_srz_530_297_85_22_0.50_1.20_0.00_jpg_srz" alt="hook1.JPG" itemprop="contentURL" width="530" height="297"/>
+    </a>                <span itemprop="description">Render of hanging landing gear on large drone chassis. ABS and NinjaFlex filament was used to make the passive actuated hooks.</span>
+    </li>
+
+    <li id="image_1k7m" itemscope itemtype="http://schema.org/ImageObject">
+            <a href="http://kellishimazu.wix.com/kelli-shimazu#!takeoff1.jpg/zoom/c6zp/image_1k7m">
+                    <img src="http://static.wixstatic.com/media/f34a59_15d579b743e64658b285b450a81e8b95.jpg_srz_530_163_85_22_0.50_1.20_0.00_jpg_srz" alt="takeoff1.jpg" itemprop="contentURL" width="530" height="163"/>
+    </a>                <span itemprop="description">Frames of the takeoff of the drone from perched position.</span>
+    </li>
+
+</ul>
+            <section class="container" id="icnpifqd" >
+            <div id="icnpifqd_0" class="Text">
+    <h6 style="line-height: 1.2em;" class="font_6"><span class="color_16"><span style="line-height: 1.2em;">Project |01</span></span></h6>
+
+<p class="font_7"> </p>
+
+</div>
+
+
+    </section>
+
+            <span id="icnpifqf_0">
+    <!-- placeholder for component of data type=None -->
+</span>
+            <div id="icnpifqe" class="Text">
+    <h6 style="line-height: 1.2em;" class="font_6"><span style="line-height: 1.2em;">Project |01 Perching Landing Gear</span></h6>
+
+<h6 style="line-height: 1.2em;" class="font_6"><span style="line-height: 1.2em;">​</span></h6>
+
+<p class="font_8">This research project was done mostly over the 2015 summer. The goal was to make a landing gear that would land on a branch or a bar like object and be able make adjustments as well as takeoff. We created various designs that enable us to land on a variety of objects as well as use the landing gear for a variety of drone sizes. Our official website is <span style="font-size:15px;"><span style="font-weight:bold;"><span style="text-decoration:underline;"><a href="http://faculty.olin.edu/~clee1/" target="_blank" rel="nofollow">faculty.olin.edu/~clee1/.</a></span></span></span><span style="font-size:15px;"><span style="font-weight:bold;"><span style="text-decoration:underline;"><a href="https://drive.google.com/folderview?id=0B7EGPuo_8U_AfkdRMVFrV054UWtOSEhpMlRwM0VQeVdzV2JHQnZFSXliOU1tQUdFck80Ums&amp;usp=sharing" target="_blank" rel="nofollow"> </a></span></span></span><a href="https://drive.google.com/folderview?id=0B7EGPuo_8U_AfkdRMVFrV054UWtOSEhpMlRwM0VQeVdzV2JHQnZFSXliOU1tQUdFck80Ums&amp;usp=sharing" target="_blank" rel="nofollow">Research is still ongoing so final products as well as results will change.</a></p>
+
+</div>
+
+
+            <span id="icnpifqg_7">
+    <!-- placeholder for component of data type=None -->
+</span>
+            <section class="container" id="icnpifqg_1" >
+            <div id="icnpifqg_2" class="Text">
+    <h6 style="line-height: 1.2em;" class="font_6"><span class="color_16"><span style="line-height: 1.2em;">Project |02</span></span></h6>
+
+<p class="font_7"> </p>
+
+</div>
+
+
+    </section>
+
+            <ul id="icnpifqd_1" class="Gallery" type="wysiwyg.viewer.components.SliderGallery">
+    <li id="image_7h1" itemscope itemtype="http://schema.org/ImageObject">
+            <a href="http://kellishimazu.wix.com/kelli-shimazu#!pacif-preview.jpg/zoom/c6zp/image_7h1">
+                    <img src="http://static.wixstatic.com/media/f34a59_609c0a691ba14520920e24b9d89667dc.jpg_srz_530_353_85_22_0.50_1.20_0.00_jpg_srz" alt="pacif-preview.JPG" itemprop="contentURL" width="530" height="353"/>
+    </a>                <span itemprop="description">Render of general pacifier and teeth assembly.</span>
+    </li>
+
+    <li id="image_c0z" itemscope itemtype="http://schema.org/ImageObject">
+            <a href="http://kellishimazu.wix.com/kelli-shimazu#!stress-strain.png/zoom/c6zp/image_c0z">
+                    <img src="http://static.wixstatic.com/media/f34a59_2a0ae99eda3b4228a44a1d3670b41dc0.png_srz_530_224_85_22_0.50_1.20_0.00_png_srz" alt="stress-strain.png" itemprop="contentURL" width="530" height="224"/>
+    </a>                <span itemprop="description">Strain curve from materials testing to properly analyze the nonlinear silicon material.</span>
+    </li>
+
+    <li id="image_21jy" itemscope itemtype="http://schema.org/ImageObject">
+            <a href="http://kellishimazu.wix.com/kelli-shimazu#!tesini1.jpg/zoom/c6zp/image_21jy">
+                    <img src="http://static.wixstatic.com/media/f34a59_713d84e3c5fd4b5a843c38673b1e9931.jpg_srz_530_129_85_22_0.50_1.20_0.00_jpg_srz" alt="tesini1.jpg" itemprop="contentURL" width="530" height="129"/>
+    </a>                <span itemprop="description">Dr. Tesini's bulb. This differs from other bulbs due to its inner ribbing and convex curved shape on the bottom part of the bulb. This supposedly keeps the bulb from collapsing in the mouth.</span>
+    </li>
+
+    <li id="image_j90" itemscope itemtype="http://schema.org/ImageObject">
+            <a href="http://kellishimazu.wix.com/kelli-shimazu#!tesini2.jpg/zoom/c6zp/image_j90">
+                    <img src="http://static.wixstatic.com/media/f34a59_00e521db557e4db7beb26c342451ab35.jpg_srz_530_117_85_22_0.50_1.20_0.00_jpg_srz" alt="tesini2.jpg" itemprop="contentURL" width="530" height="117"/>
+    </a>                <span itemprop="description">This is the tommee tippee model.</span>
+    </li>
+
+    <li id="image_1tgb" itemscope itemtype="http://schema.org/ImageObject">
+            <a href="http://kellishimazu.wix.com/kelli-shimazu#!nukmodel.jpg/zoom/c6zp/image_1tgb">
+                    <img src="http://static.wixstatic.com/media/f34a59_a68d77f66b3b4e47858fee644d1e5c48.jpg_srz_530_124_85_22_0.50_1.20_0.00_jpg_srz" alt="nukmodel.jpg" itemprop="contentURL" width="530" height="124"/>
+    </a>                <span itemprop="description">Since we didn't have a nuk pacifier cad readily available to us we had to scan and use Fusion 360 to get our model. We then smoothed  out the features and hollowed out the inside. Notice how the pacifier has a concave shape on the bottom.</span>
+    </li>
+
+    <li id="image_12s4" itemscope itemtype="http://schema.org/ImageObject">
+            <a href="http://kellishimazu.wix.com/kelli-shimazu#!soothiemodel.jpg/zoom/c6zp/image_12s4">
+                    <img src="http://static.wixstatic.com/media/f34a59_b97a5b6d2ef94470a4590416b151d6b8.jpg_srz_530_128_85_22_0.50_1.20_0.00_jpg_srz" alt="soothiemodel.jpg" itemprop="contentURL" width="530" height="128"/>
+    </a>                <span itemprop="description">This is a general commercially produced cherry drop pacifier.</span>
+    </li>
+
+</ul>
+            <span id="icnpifqf_1">
+    <!-- placeholder for component of data type=None -->
+</span>
+            <div id="icnpifqe_0" class="Text">
+    <h6 style="line-height: 1.2em;" class="font_6"><span style="line-height: 1.2em;">Project |02 Pacifier </span></h6>
+
+<h6 style="line-height: 1.2em;" class="font_6"><span style="line-height: 1.2em;">​</span></h6>
+
+<p class="font_8">This research project was done mostly over the 2015 summer. The goal was to test Dr. Tesini's new pacifier against commercially available pacifiers using Solidworks FEA. We added pressures to the bulb to simulate sucking pressure as well as tongue pressure experienced from non-nutritive sucking. Our official website is <span style="font-size:15px;"><span style="font-weight:bold;"><span style="text-decoration:underline;"><a href="http://faculty.olin.edu/~clee1/" target="_blank" rel="nofollow">faculty.olin.edu/~clee1/</a></span></span></span><span style="font-size:15px;"><span style="font-weight:bold;"><span style="text-decoration:underline;"><a href="https://drive.google.com/folderview?id=0B7EGPuo_8U_AfkdRMVFrV054UWtOSEhpMlRwM0VQeVdzV2JHQnZFSXliOU1tQUdFck80Ums&amp;usp=sharing" target="_blank" rel="nofollow">. </a></span></span></span><a href="https://drive.google.com/folderview?id=0B7EGPuo_8U_AfkdRMVFrV054UWtOSEhpMlRwM0VQeVdzV2JHQnZFSXliOU1tQUdFck80Ums&amp;usp=sharing" target="_blank" rel="nofollow">Research is still ongoing so final products as well as results will change.</a></p>
+
+</div>
+
+
+            <span id="icnpifqg_8">
+    <!-- placeholder for component of data type=None -->
+</span>
+    </section>
+<footer class="container" id="SITE_FOOTER" >
+    </footer>
+
+    
+        
+        <div class="adFootBox" style="background-color:black">
+        <div class="adFootBox"><div class="siteBanner" ><div class="siteBanner"><div class="wrapper"><div class="bigMusa">(Wix Logo)</div><div class="txt shd" style="color:#fff">This site was created using </div> <div class="txt shd"><a  href="http://www.wix.com?utm_campaign=vir_wixad_live&experiment_id=abtestbanner122400001" style="color:#fff"> WIX.com. </a></div> <div class="txt shd" style="color:#fff"> Create your own for FREE <span class="emphasis"> >></span></div></div></div></div></div>
+    </div>
+</body>
+</html>
