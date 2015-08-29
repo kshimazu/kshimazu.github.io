@@ -1,0 +1,377 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+        <meta http-equiv="X-UA-Compatible" content="IE=9,chrome=1"/>
+    <meta charset="utf-8"/>
+<title>Kelli Shimazu | PROJECTS</title>
+<meta name="fb_admins_meta_tag" content=""/>
+<meta name="keywords" content="Kelli, Shimazu"/>
+<meta name="description" content="Personal website displaying past and present engineering projects."/>
+<link rel="shortcut icon" href="http://www.wix.com/favicon.ico" type="image/x-icon"/>
+<link rel="apple-touch-icon" href="http://www.wix.com/favicon.ico" type="image/x-icon"/>
+<link rel="canonical" href="http://kellishimazu.wix.com/kelli-shimazu#!projects/cm8a"/>
+    <meta http-equiv="X-Wix-Renderer-Server" content="app23.tam"/>
+<meta http-equiv="X-Wix-Meta-Site-Id" content="1f45f7cd-5be7-4b87-b9bf-d072cf9c78ba"/>
+<meta http-equiv="X-Wix-Application-Instance-Id" content="f97a2dbb-eac4-4926-a4bd-cffc0cb47775"/>
+<meta http-equiv="X-Wix-Published-Version" content="30"/>
+
+<meta http-equiv="etag" content="84de9ea0123b0d0c61ccd0bf8554fb82"/>
+<meta property="og:title" content="Kelli Shimazu | PROJECTS"/>
+<meta property="og:type" content="article"/>
+<meta property="og:url" content="http://kellishimazu.wix.com/kelli-shimazu#!projects/cm8a"/>
+<meta property="og:site_name" content="Kelli Shimazu"/>
+<meta property="og:description" content="Personal website displaying past and present engineering projects."/>
+<meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE"/>
+
+<meta id="wixMobileViewport" name="viewport" content="minimum-scale=0.25, maximum-scale=1.2"/>
+
+
+        
+    </head>
+<body>
+    
+        <div class="WixHeader">
+        <a href="http://www.wix.com/lpviral/stun-vrl-lil-seo?utm_campaign=vir_wixad_live&experiment_id=abtestbanner122400001" rel="nofollow"><span class="smallMusa">(Wix-Logo) </span>Create a <span class="smallLogo">Wix</span> site!</a> <br/>
+        <a href="http://www.wix.com/lpviral/stun-vrl-lil-seo?utm_campaign=vir_wixad_live&experiment_id=abtestbanner122400001" rel="nofollow">100s of templates<br />No coding needed<br /><span class="emphasis spacer">Start now >></span></a>
+    </div> 
+    
+            <header class="container" id="SITE_HEADER" >
+            <div id="WRchTxt9" class="Text">
+    <h1 class="font_0">Kelli Shimazu</h1>
+
+<h6 style="line-height: 1.2em;" class="font_6">Mechanical Engineer</h6>
+
+</div>
+
+
+            <nav>
+    <ul id="DrpDwnMn0" class="menu">
+                <li class="menuItem">
+    <a id="pl22fv" href="http://kellishimazu.wix.com/kelli-shimazu" target="_self" title="HOME">HOME</a>
+    </li>
+
+                <li class="menuItem">
+    <a id="pl19wf" href="http://kellishimazu.wix.com/kelli-shimazu#!resume/c46c" target="_self" title="RESUME">RESUME</a>
+    </li>
+
+                <li class="menuItem">
+    <a id="plzt3" href="http://kellishimazu.wix.com/kelli-shimazu#!projects/cm8a" target="_self" title="PROJECTS">PROJECTS</a>
+    </li>
+
+                <li class="menuItem">
+    <a id="hm0" href="http://kellishimazu.wix.com/kelli-shimazu#!research/c6zp" target="_self" title="RESEARCH">RESEARCH</a>
+    </li>
+
+            </ul>
+</nav>
+
+    </header>
+<section class="page" id="cm8a">
+                <div id="WRchTxt18" class="Text">
+    <h2 class="font_2">PROJECTS</h2>
+
+</div>
+
+
+            <span id="FvGrdLn6">
+    <!-- placeholder for component of data type=None -->
+</span>
+            <ul id="SldrGllry0" class="Gallery" type="wysiwyg.viewer.components.SliderGallery">
+    <li id="image_8ml" itemscope itemtype="http://schema.org/ImageObject">
+            <a href="http://kellishimazu.wix.com/kelli-shimazu#!cad-model/zoom/cm8a/image_8ml">
+                    <img src="http://static.wixstatic.com/media/f34a59_bea13a05d4864ac89808a9cd73fe435f.jpg_srz_530_480_85_22_0.50_1.20_0.00_jpg_srz" alt="CAD model" itemprop="contentURL" width="530" height="480"/>
+    </a>                <span itemprop="description">Full CAD assembly of hopper</span>
+    </li>
+
+    <li id="image_10jr" itemscope itemtype="http://schema.org/ImageObject">
+            <a href="http://kellishimazu.wix.com/kelli-shimazu#!color-coded-cad/zoom/cm8a/image_10jr">
+                    <img src="http://static.wixstatic.com/media/f34a59_a268e6f67274449d8970aa59cd4cee38.jpg_srz_530_433_85_22_0.50_1.20_0.00_jpg_srz" alt="color coded CAD" itemprop="contentURL" width="530" height="433"/>
+    </a>                <span itemprop="description">CAD assembly with color coded parts to define the different parts.</span>
+    </li>
+
+    <li id="image_1tjz" itemscope itemtype="http://schema.org/ImageObject">
+            <a href="http://kellishimazu.wix.com/kelli-shimazu#!finished-product/zoom/cm8a/image_1tjz">
+                    <img src="http://static.wixstatic.com/media/f34a59_a92a1c8749a340f69cf5adf73141afac.jpg_srz_530_598_85_22_0.50_1.20_0.00_jpg_srz" alt="Finished Product" itemprop="contentURL" width="530" height="598"/>
+    </a>                <span itemprop="description">The final product of the toy.</span>
+    </li>
+
+</ul>
+            <section class="container" id="Cntnr0" >
+            <div id="WRchTxt3" class="Text">
+    <h6 style="line-height: 1.2em;" class="font_6"><span class="color_16"><span style="line-height: 1.2em;">Project|01</span></span></h6>
+
+<p class="font_7"> </p>
+
+</div>
+
+
+    </section>
+
+            <span id="FvGrdLn8">
+    <!-- placeholder for component of data type=None -->
+</span>
+            <div id="WRchTxt5" class="Text">
+    <h6 style="line-height: 1.2em;" class="font_6"><span style="line-height: 1.2em;">Project |01 Hopper</span></h6>
+
+<h6 style="line-height: 1.2em;" class="font_6"><span style="line-height: 1.2em;">​</span></h6>
+
+<p class="font_8">An individual first year bio-inspired project. The goal was to create a children's toy that would fulfill the requirement of jumping three feet and flipping twice in the air. Skills used: Solidworks, Solidworks Motion Simulation, and basic machine shop skills.</p>
+
+</div>
+
+
+            <div id="idw709ee">
+    <iframe src="http://www.youtube.com/embed/MfUcMDSyQDg" width="480" height="360" frameborder="0"></iframe>
+</div>
+
+            <span id="FvGrdLn7">
+    <!-- placeholder for component of data type=None -->
+</span>
+            <ul id="SldrGllry1" class="Gallery" type="wysiwyg.viewer.components.SliderGallery">
+    <li id="image_yok" itemscope itemtype="http://schema.org/ImageObject">
+            <a href="http://kellishimazu.wix.com/kelli-shimazu#!branch-pattern/zoom/cm8a/image_yok">
+                    <img src="http://static.wixstatic.com/media/f34a59_ba5b706102ab4d41b653260fbb8f0b81.jpg_srz_530_249_85_22_0.50_1.20_0.00_jpg_srz" alt="Branch Pattern" itemprop="contentURL" width="530" height="249"/>
+    </a>                <span itemprop="description">Isometric view of branch with puzzle pattern.</span>
+    </li>
+
+    <li id="image_v9s" itemscope itemtype="http://schema.org/ImageObject">
+            <a href="http://kellishimazu.wix.com/kelli-shimazu#!top-view/zoom/cm8a/image_v9s">
+                    <img src="http://static.wixstatic.com/media/f34a59_d7010800c4ae47e6b53d1213dd067635.jpg_srz_530_249_85_22_0.50_1.20_0.00_jpg_srz" alt="Top view" itemprop="contentURL" width="530" height="249"/>
+    </a>                <span itemprop="description">Top view of entire tube and pattern.</span>
+    </li>
+
+    <li id="image_ltn" itemscope itemtype="http://schema.org/ImageObject">
+            <a href="http://kellishimazu.wix.com/kelli-shimazu#!paw-assembly/zoom/cm8a/image_ltn">
+                    <img src="http://static.wixstatic.com/media/f34a59_bd35b971a6b74e9f8a18901db87a7128.jpg_srz_530_261_85_22_0.50_1.20_0.00_jpg_srz" alt="Paw Assembly" itemprop="contentURL" width="530" height="261"/>
+    </a>                <span itemprop="description">CAD of paw.</span>
+    </li>
+
+    <li id="image_24pc" itemscope itemtype="http://schema.org/ImageObject">
+            <a href="http://kellishimazu.wix.com/kelli-shimazu#!full-picture/zoom/cm8a/image_24pc">
+                    <img src="http://static.wixstatic.com/media/f34a59_24df126a116c4c8db0884d262bce2ce2.jpg_srz_530_396_85_22_0.50_1.20_0.00_jpg_srz" alt="Full Picture" itemprop="contentURL" width="530" height="396"/>
+    </a>                <span itemprop="description">Full view of finished product.</span>
+    </li>
+
+    <li id="image_jwa" itemscope itemtype="http://schema.org/ImageObject">
+            <a href="http://kellishimazu.wix.com/kelli-shimazu#!sloth/zoom/cm8a/image_jwa">
+                    <img src="http://static.wixstatic.com/media/f34a59_e728e7badd4b4485a9b32cb8a5cf6a95.jpg_srz_530_396_85_22_0.50_1.20_0.00_jpg_srz" alt="Sloth" itemprop="contentURL" width="530" height="396"/>
+    </a>                <span itemprop="description">Close up view of sloth in the start position.</span>
+    </li>
+
+</ul>
+            <section class="container" id="Cntnrc" >
+            <div id="WRchTxtq" class="Text">
+    <h6 style="line-height: 1.2em;" class="font_6"><span class="color_16"><span style="line-height: 1.2em;">Project |02</span></span></h6>
+
+<p class="font_7"> </p>
+
+</div>
+
+
+    </section>
+
+            <span id="FvGrdLn9">
+    <!-- placeholder for component of data type=None -->
+</span>
+            <div id="WRchTxtb" class="Text">
+    <h6 style="line-height: 1.2em;" class="font_6"><span style="line-height: 1.2em;">Project |02 Sloth Inspired Toy</span></h6>
+
+<h6 style="line-height: 1.2em;" class="font_6"><span style="line-height: 1.2em;">​</span></h6>
+
+<p class="font_8">A first year bio-inspired team project. The objective of the game was to make the sloth cross the branch by correctly aligning its paws with the holes in the branch. Solidworks was used for the claws and the pvc branch. The mill was used to create the puzzle holes in the branch. </p>
+
+</div>
+
+
+            <span id="FvGrdLna">
+    <!-- placeholder for component of data type=None -->
+</span>
+            <ul id="SldrGllry3" class="Gallery" type="wysiwyg.viewer.components.SliderGallery">
+    <li id="image_pky" itemscope itemtype="http://schema.org/ImageObject">
+            <a href="http://kellishimazu.wix.com/kelli-shimazu#!zoomed-out/zoom/cm8a/image_pky">
+                    <img src="http://static.wixstatic.com/media/f34a59_fb2ab5e5811644bf8af5ec9fcfb53b02.jpg_srz_530_424_85_22_0.50_1.20_0.00_jpg_srz" alt="Zoomed Out" itemprop="contentURL" width="530" height="424"/>
+    </a>                <span itemprop="description">Full view of final CAD.</span>
+    </li>
+
+    <li id="image_1bxs" itemscope itemtype="http://schema.org/ImageObject">
+            <a href="http://kellishimazu.wix.com/kelli-shimazu#!close-up-view/zoom/cm8a/image_1bxs">
+                    <img src="http://static.wixstatic.com/media/f34a59_3eab96c0179a4e819b23c8b9e9435da8.jpg_srz_530_409_85_22_0.50_1.20_0.00_jpg_srz" alt="Close up view" itemprop="contentURL" width="530" height="409"/>
+    </a>                <span itemprop="description">Close up view of CAD.</span>
+    </li>
+
+    <li id="image_1dzw" itemscope itemtype="http://schema.org/ImageObject">
+            <a href="http://kellishimazu.wix.com/kelli-shimazu#!isometric-view-of-cad/zoom/cm8a/image_1dzw">
+                    <img src="http://static.wixstatic.com/media/f34a59_a5de0d16044847dfa8d197edf16b1a4d.jpg_srz_530_409_85_22_0.50_1.20_0.00_jpg_srz" alt="Isometric view of CAD" itemprop="contentURL" width="530" height="409"/>
+    </a>                <span itemprop="description"></span>
+    </li>
+
+</ul>
+            <section class="container" id="Cntnrd" >
+            <div id="WRchTxtr" class="Text">
+    <h6 style="line-height: 1.2em;" class="font_6"><span class="color_16"><span style="line-height: 1.2em;">Project |03</span></span></h6>
+
+<p class="font_7"> </p>
+
+</div>
+
+
+    </section>
+
+            <span id="FvGrdLn5">
+    <!-- placeholder for component of data type=None -->
+</span>
+            <div id="WRchTxte" class="Text">
+    <h6 style="line-height: 1.2em;" class="font_6"><span style="line-height: 1.2em;">Project |03 Wayv</span><span style="line-height: 1.2em;">​</span></h6>
+
+<h6 style="line-height: 1.2em;" class="font_6"> </h6>
+
+<p class="font_8">Kinetic sculpture project made in the class, Mechanical Prototyping. The sculpture is CADed in Solidworks and put through Motion Simulation to ensure that it works. Tools and Skills used: CNC router, laser cutter, lathe, mill, waterjet, CNC mill, and basic machine shop skills. </p>
+
+</div>
+
+
+            <div id="icnruytw">
+    <iframe src="http://www.youtube.com/embed/w1RCXtouE_0" width="480" height="360" frameborder="0"></iframe>
+</div>
+
+            <span id="FvGrdLnb">
+    <!-- placeholder for component of data type=None -->
+</span>
+            <ul id="icnqq532" class="Gallery" type="wysiwyg.viewer.components.SliderGallery">
+    <li id="image_161k" itemscope itemtype="http://schema.org/ImageObject">
+            <a href="http://kellishimazu.wix.com/kelli-shimazu#!full-cad-asssembly/zoom/cm8a/image_161k">
+                    <img src="http://static.wixstatic.com/media/f34a59_1ca036af7bd6413e8e643bb44d2eaf3e.jpg_srz_530_424_85_22_0.50_1.20_0.00_jpg_srz" alt="Full CAD Asssembly" itemprop="contentURL" width="530" height="424"/>
+    </a>                <span itemprop="description">Full CAD of flower kinetic sculpture.</span>
+    </li>
+
+    <li id="image_9jx" itemscope itemtype="http://schema.org/ImageObject">
+            <a href="http://kellishimazu.wix.com/kelli-shimazu#!exploded-view-of-cam-section/zoom/cm8a/image_9jx">
+                    <img src="http://static.wixstatic.com/media/f34a59_e66fbff3545a46d892a23ec7c0679b31.jpg_srz_530_553_85_22_0.50_1.20_0.00_jpg_srz" alt="Exploded view of Cam Section" itemprop="contentURL" width="530" height="553"/>
+    </a>                <span itemprop="description">View of flower and cam assembly. As the center shaft rotates the cam pushes the bottom part of the flower upward and makes the flower "open".</span>
+    </li>
+
+    <li id="image_3r2" itemscope itemtype="http://schema.org/ImageObject">
+            <a href="http://kellishimazu.wix.com/kelli-shimazu#!exploded-view-of-planetary-gears/zoom/cm8a/image_3r2">
+                    <img src="http://static.wixstatic.com/media/f34a59_7127240aa2404378b1abced6ff3e6098.jpg_srz_530_466_85_22_0.50_1.20_0.00_jpg_srz" alt="Exploded view of Planetary Gears" itemprop="contentURL" width="530" height="466"/>
+    </a>                <span itemprop="description">View of planetary gears and lily pads. 9 bearings, including the lazy susan bearing on the bottom, keep friction low on the RP parts.</span>
+    </li>
+
+    <li id="image_11ex" itemscope itemtype="http://schema.org/ImageObject">
+            <a href="http://kellishimazu.wix.com/kelli-shimazu#!exploded-view-of-base/zoom/cm8a/image_11ex">
+                    <img src="http://static.wixstatic.com/media/f34a59_97666e6e6e99497e9794f518cc5de458.jpg_srz_530_540_85_22_0.50_1.20_0.00_jpg_srz" alt="Exploded view of Base" itemprop="contentURL" width="530" height="540"/>
+    </a>                <span itemprop="description">Base is CNC routed and has sheet metal brackets to add support to the legs.</span>
+    </li>
+
+</ul>
+            <section class="container" id="icnqr47n" >
+            <div id="icnqr47n_0" class="Text">
+    <h6 style="line-height: 1.2em;" class="font_6"><span class="color_16"><span style="line-height: 1.2em;">Project |04</span></span></h6>
+
+<p class="font_7"> </p>
+
+</div>
+
+
+    </section>
+
+            <span id="icnqrjig">
+    <!-- placeholder for component of data type=None -->
+</span>
+            <div id="icnqrw40" class="Text">
+    <h6 style="line-height: 1.2em;" class="font_6"><span style="line-height: 1.2em;">Project |04 Flower</span></h6>
+
+<h6 style="line-height: 1.2em;" class="font_6"><span style="line-height: 1.2em;">​</span></h6>
+
+<p class="font_8">Kinetic sculpture done in Mechanical Prototyping class. This sculpture uses the inner gear of the planetary gear set to rotate the entire piece. The individual planetary gears hold the lily pads and made them spin. A cam is located on the sun gear and makes the flower open and close. Tools and skills used: Solidworks, CNC router, Waterjet, sheet metal bending, basic machine shop skills, RP printing, fiber glass casting, molding (with polyurethane), and 3D printing.</p>
+
+</div>
+
+
+            <span id="icnqsbyt">
+    <!-- placeholder for component of data type=None -->
+</span>
+            <section class="container" id="idw728a5" >
+            <div id="idw728a5_0" class="Text">
+    <h6 style="line-height: 1.2em;" class="font_6"><span class="color_16"><span style="line-height: 1.2em;">Project |05</span></span></h6>
+
+<p class="font_7"> </p>
+
+</div>
+
+
+    </section>
+
+            <ul id="idw8yrfv" class="Gallery" type="wysiwyg.viewer.components.SliderGallery">
+    <li id="image_fx4" itemscope itemtype="http://schema.org/ImageObject">
+            <a href="http://kellishimazu.wix.com/kelli-shimazu#!bowling_pin_setup.jpg/zoom/cm8a/image_fx4">
+                    <img src="http://static.wixstatic.com/media/f34a59_5f35fd00e90848b9a8a3b34f0837d906.jpg_srz_530_326_85_22_0.50_1.20_0.00_jpg_srz" alt="bowling_pin_setup.JPG" itemprop="contentURL" width="530" height="326"/>
+    </a>                <span itemprop="description"></span>
+    </li>
+
+    <li id="image_wb7" itemscope itemtype="http://schema.org/ImageObject">
+            <a href="http://kellishimazu.wix.com/kelli-shimazu#!bowling_trajectory.jpg/zoom/cm8a/image_wb7">
+                    <img src="http://static.wixstatic.com/media/f34a59_6477630a68ea4ddcbf675bd8dcc1d7b1.jpg_srz_530_738_85_22_0.50_1.20_0.00_jpg_srz" alt="bowling_trajectory.JPG" itemprop="contentURL" width="530" height="738"/>
+    </a>                <span itemprop="description"></span>
+    </li>
+
+    <li id="image_yqu" itemscope itemtype="http://schema.org/ImageObject">
+            <a href="http://kellishimazu.wix.com/kelli-shimazu#!bowling_house_trajectory.jpg/zoom/cm8a/image_yqu">
+                    <img src="http://static.wixstatic.com/media/f34a59_cb27919d05fd4bfcaa73032e5f63688b.jpg_srz_530_710_85_22_0.50_1.20_0.00_jpg_srz" alt="bowling_house_trajectory.JPG" itemprop="contentURL" width="530" height="710"/>
+    </a>                <span itemprop="description"></span>
+    </li>
+
+    <li id="image_kf1" itemscope itemtype="http://schema.org/ImageObject">
+            <a href="http://kellishimazu.wix.com/kelli-shimazu#!house_pattern_basis.jpg/zoom/cm8a/image_kf1">
+                    <img src="http://static.wixstatic.com/media/f34a59_04b46bbebbb44f3cb0a70561a1fca687.jpg_srz_530_609_85_22_0.50_1.20_0.00_jpg_srz" alt="house_pattern_basis.JPG" itemprop="contentURL" width="530" height="609"/>
+    </a>                <span itemprop="description"></span>
+    </li>
+
+    <li id="image_1ix0" itemscope itemtype="http://schema.org/ImageObject">
+            <a href="http://kellishimazu.wix.com/kelli-shimazu#!house_validation.jpg/zoom/cm8a/image_1ix0">
+                    <img src="http://static.wixstatic.com/media/f34a59_54762636ede94e5c8730a3ff4f988d1d.jpg_srz_530_579_85_22_0.50_1.20_0.00_jpg_srz" alt="house_validation.JPG" itemprop="contentURL" width="530" height="579"/>
+    </a>                <span itemprop="description"></span>
+    </li>
+
+    <li id="image_3sr" itemscope itemtype="http://schema.org/ImageObject">
+            <a href="http://kellishimazu.wix.com/kelli-shimazu#!table_of_patterns.jpg/zoom/cm8a/image_3sr">
+                    <img src="http://static.wixstatic.com/media/f34a59_8e29d01c799340d1b9a1226ea0e3ceb8.jpg_srz_530_243_85_22_0.50_1.20_0.00_jpg_srz" alt="table_of_patterns.JPG" itemprop="contentURL" width="530" height="243"/>
+    </a>                <span itemprop="description"></span>
+    </li>
+
+    <li id="image_yrs" itemscope itemtype="http://schema.org/ImageObject">
+            <a href="http://kellishimazu.wix.com/kelli-shimazu#!all_of.jpg/zoom/cm8a/image_yrs">
+                    <img src="http://static.wixstatic.com/media/f34a59_7eda47fd2a914da3bf949fb56f242d49.jpg_srz_530_278_85_22_0.50_1.20_0.00_jpg_srz" alt="all_of.JPG" itemprop="contentURL" width="530" height="278"/>
+    </a>                <span itemprop="description"></span>
+    </li>
+
+</ul>
+            <span id="idw72bq0">
+    <!-- placeholder for component of data type=None -->
+</span>
+            <div id="idw72na6" class="Text">
+    <h6 style="line-height: 1.2em;" class="font_6"><span style="line-height: 1.2em;">Project |05 Bowling Research Paper</span></h6>
+
+<h6 style="line-height: 1.2em;" class="font_6"><span style="line-height: 1.2em;">​</span></h6>
+
+<p class="font_8">This was a research paper done on sport oil bowling lane patterns for the class mechanics. In this paper, we come up with equations for the trajectory of the bowling ball and implement it into matlab. Then we added in the different variables accounting for the oil lane  patterns. Using Latex, we then wrote a research paper with our found results. Paper can be found</p>
+
+<p style="font-size: 15px;" class="font_8"><span style="font-size:15px;"><span style="font-weight:bold;"><a href="https://drive.google.com/file/d/0B7EGPuo_8U_AMzBpRzdYaUNYWFk/view?usp=sharing" target="_blank" rel="nofollow"><span style="text-decoration:underline;">here.</span></a></span></span></p>
+
+</div>
+
+
+            <span id="idw71y93">
+    <!-- placeholder for component of data type=None -->
+</span>
+    </section>
+<footer class="container" id="SITE_FOOTER" >
+    </footer>
+
+    
+        
+        <div class="adFootBox" style="background-color:black">
+        <div class="adFootBox"><div class="siteBanner" ><div class="siteBanner"><div class="wrapper"><div class="bigMusa">(Wix Logo)</div><div class="txt shd" style="color:#fff">This site was created using </div> <div class="txt shd"><a  href="http://www.wix.com?utm_campaign=vir_wixad_live&experiment_id=abtestbanner122400001" style="color:#fff"> WIX.com. </a></div> <div class="txt shd" style="color:#fff"> Create your own for FREE <span class="emphasis"> >></span></div></div></div></div></div>
+    </div>
+</body>
+</html>
